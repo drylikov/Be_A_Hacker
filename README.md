@@ -83,6 +83,7 @@ It will help you get a deeper understanding of the machine you will be using for
 
 Remember, you just need to know the basics because this knowledge will keep being developed if you are curious by asking questions like "What happens when you delete a file? If they stay on the device, how does space get freed? If they are really gone, how do recovery software recover them?"
 
+
 **Resources:**
   - [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
   - [Computerphile](https://www.youtube.com/user/Computerphile) (not beginner-friendly)
