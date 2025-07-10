@@ -77,6 +77,7 @@ I will reference this methodology as 'recursive learning' throughout the guide.
 
 Hacking has many fields e.g. reverse engineering, web hacking, car hacking, etc. but some things are helpful irrespective of the field so let's talk about them first.
 
+
 #### Basics of Computer Science
 It will help you get a deeper understanding of the machine you will be using for hours every day as well as to gain a valuable perspective that I can't really explain in words.
 
