@@ -72,6 +72,7 @@ Why at least 3 sources? Because the information provided by 1 creator will be li
 
 I will reference this methodology as 'recursive learning' throughout the guide.
 
+
 ### Getting started
 
 Hacking has many fields e.g. reverse engineering, web hacking, car hacking, etc. but some things are helpful irrespective of the field so let's talk about them first.
