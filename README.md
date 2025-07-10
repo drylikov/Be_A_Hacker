@@ -63,6 +63,7 @@ If you have some information that you think might be helpful for other people, s
 ### Do cool shit
 Be curious, experiment a lot, build cool shit, that's the entire point, that's how it all started. If you spend your life using techniques and tools developed by other people, what's the point of choosing a cool path like this?
 
+
 ## The roadmap
 The roadmap contains some good resources as well as some topics that you will need to google and read about yourself. This is not simply a 'step-by-step guide' or a collection of resources.
 
