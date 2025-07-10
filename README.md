@@ -43,6 +43,7 @@ Denny Teresi, one of the phreaks said in an interview:
 
 They did it because it was a fascinating problem for them to solve and they wanted to see if they could solve it. This is exactly what hacking culture is, even today.
 
+
 ## Basic principles
 
 
