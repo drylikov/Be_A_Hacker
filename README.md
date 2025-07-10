@@ -59,6 +59,7 @@ If you have some information that you think might be helpful for other people, s
 3. You can only explain something if you understand it well which can be a self-check to see if you actually know enough about a topic.
 4. Exposure is a great thing. It will bring you opportunities and the power to influence people for good.
 
+
 ### Do cool shit
 Be curious, experiment a lot, build cool shit, that's the entire point, that's how it all started. If you spend your life using techniques and tools developed by other people, what's the point of choosing a cool path like this?
 
