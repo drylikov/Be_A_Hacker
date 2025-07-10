@@ -103,6 +103,7 @@ IP address, MAC address, port, client & server, dns, tcp, udp, proxy, tls/ssl, v
 #### Get familiar with terminal
 You will spend a lot of time in the terminal whether it is running programs or accessing remote servers. You can use any operating system but I suggest Linux-based operating systems simply because you can modify everything about it which is the essence of hacking. [Ubuntu](https://ubuntu.com/download/desktop) is a great linux distribution for beginners.
 
+
 #### Programming
 To understand how a given software works (makes it easy to hack it) and to create your own software for hacking and other tasks.
 
