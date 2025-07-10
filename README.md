@@ -1,10 +1,12 @@
+
+
 ## Introduction
 
 Hacking is the art of using things in unintended ways. For example, if a software's trial is about to expire, you might be able to extend it by changing your computer's date to the previous week. That's hacking.
 
 There's no 'one right way' to learn hacking because it is a very broad term. That's why the purpose of this guide is to provide a direction rather than a roadmap. 
 
-If there's something you think should be added/improved, please [create an issue](https://github.com/drylikovv/be_a_hacker/issues/new).
+If there's something you think should be added/improved, please [create an issue](https://github.com/drylikov/Be_A_Hacker/issues/new).
 
 ## Contents
 - [Origin of hacking](https://github.com/drylikov/be_a_hacker#origin-of-hacking)
