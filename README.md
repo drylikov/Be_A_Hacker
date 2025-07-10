@@ -8,6 +8,7 @@ There's no 'one right way' to learn hacking because it is a very broad term. Tha
 
 If there's something you think should be added/improved, please [create an issue](https://github.com/drylikov/Be_A_Hacker/issues/new).
 
+
 ## Contents
 - [Origin of hacking](https://github.com/drylikov/be_a_hacker#origin-of-hacking)
 - [Basic principles](https://github.com/drylikov/be_a_hacker#basic-principles)
